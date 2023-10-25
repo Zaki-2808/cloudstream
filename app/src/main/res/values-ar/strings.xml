@@ -586,4 +586,9 @@
     <string name="no_repository_found_error">المستودع لم يتم العثور عليه، تحقق من العنوان اوجرب شبكة افتراضية خاصة(vpn)</string>
     <string name="already_voted">لقد صوتت بالفعل</string>
     <string name="backup_frequency">معدل النسخ الإحتياطي</string>
+    <string name="favorite_removed">تمت إزالته %s إلى المفضلة</string>
+    <string name="favorites_list_name">المفضَّلة</string>
+    <string name="favorite_added">تمت إضافة %s إلى المفضلة</string>
+    <string name="action_add_to_favorites">إضافة إلى المفضلة</string>
+    <string name="action_remove_from_favorites">إزالة من المفضلة</string>
 </resources>

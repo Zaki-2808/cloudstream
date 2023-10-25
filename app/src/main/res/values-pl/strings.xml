@@ -405,7 +405,7 @@
     <string name="view_public_repositories_button_short">Publiczna lista</string>
     <string name="uppercase_all_subtitles">Wszystkie napisy wielką literą</string>
     <string name="download_all_plugins_from_repo">Pobrać wszystkie rozszerzenia z tego repozytorium\?</string>
-    <string name="single_plugin_disabled" formatted="true">%s (Wyłączone)</string>
+    <string name="single_plugin_disabled" formatted="true">%s (Wyłączone przez programistów)</string>
     <string name="tracks">Ścieżki</string>
     <string name="audio_tracks">Ścieżki audio</string>
     <string name="video_tracks">Ścieżki wideo</string>
@@ -556,4 +556,10 @@
     <string name="no_plugins_found_error">Nie znaleziono żadnych wtyczek w repozytorium</string>
     <string name="already_voted">Już oddano głos</string>
     <string name="no_repository_found_error">Nie znaleziono tego repozytorium, sprawdź adres URL lub spróbuj połączyć się przez VPN</string>
+    <string name="backup_frequency">Częstotliwość tworzenia kopii zapasowych</string>
+    <string name="favorite_removed">Usunięto %s z ulubionych</string>
+    <string name="favorites_list_name">Ulubione</string>
+    <string name="favorite_added">Dodano %s do ulubionych</string>
+    <string name="action_add_to_favorites">Dodaj do ulubionych</string>
+    <string name="action_remove_from_favorites">Usuń z ulubionych</string>
 </resources>

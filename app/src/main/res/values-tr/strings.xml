@@ -206,7 +206,7 @@
     <string name="delete_file">Dosyayı sil</string>
     <string name="delete">Sil</string>
     <string name="cancel" translatable="false">@string/sort_cancel</string>
-    <string name="pause">Durdur</string>
+    <string name="pause">Duraklat</string>
     <string name="resume">Sürdür</string>
     <string name="go_back_30">-30</string>
     <string name="go_forward_30">+30</string>
@@ -539,11 +539,11 @@
     <string name="clipboard_too_large">Çok fazla metin. Panoya kaydedilemiyor.</string>
     <string name="library">Kütüphane</string>
     <string name="browser">Tarayıcı</string>
-    <string name="empty_library_no_accounts_message">Görünüşe göre kütüphaneniz boş :(
-\nBir kütüphane hesabına giriş yapın veya yerel kütüphanenize içerik ekleyin</string>
+    <string name="empty_library_no_accounts_message">Kütüphaneniz boş :(
+\nBir kütüphane hesabına giriş yapın veya yerel kütüphanenize içerik ekleyin.</string>
     <string name="safe_mode_file">Güvenli mod dosyası bulundu!
 \nDosya kaldırılana kadar başlangıçta herhangi bir uzantı yüklenmiyor.</string>
-    <string name="sort_by">Sırala</string>
+    <string name="sort_by">Buna göre sırala</string>
     <string name="sort">Sırala</string>
     <string name="sort_updated_new">Güncellenme (Yeniden Eskiye)</string>
     <string name="sort_updated_old">Güncellenme (Eskiden Yeniye)</string>
@@ -585,15 +585,26 @@
     <string name="mobile_data">Mobil veri</string>
     <string name="set_default">Varsayılanı ayarla</string>
     <string name="edit">Düzenle</string>
-    <string name="quality_profile_help">Burada kaynakların nasıl sıralandığını değiştirebilirsiniz. Bir video daha yüksek bir önceliğe sahipse, kaynak seçiminde daha yüksek görünecektir. Kaynak önceliği ve kalite önceliğinin toplamı video önceliğidir.
+    <string name="quality_profile_help">İşte kaynakların nasıl sıralandığını değiştirebileceğiniz yer. Bir videonun daha yüksek bir önceliği varsa, kaynak seçiminde daha yukarıda görünecektir. Kaynak önceliğinin ve kalite önceliğinin toplamı, video önceliğidir.
 \n
 \nKaynak A: 3
 \nKalite B: 7
-\nBirleştirilmiş video önceliği 10 olacaktır.
+\nBirleşik video önceliği 10 olacaktır.
 \n
-\nNOT: Toplam 10 veya daha fazlaysa, bu bağlantı yüklendiğinde oynatıcı otomatik olarak yüklemeyi atlayacaktır!</string>
+\nNOT: Toplam 10 veya daha fazla ise oynatıcı, bu bağlantı yüklendiğinde otomatik olarak yüklemeyi atlayacaktır!</string>
     <string name="qualities">Kaliteler</string>
     <string name="profile_background_des">Profil arkaplanı</string>
-    <string name="unable_to_inflate">UI was unable to be created correctly, this is a MAJOR BUG and should be reported immediately %s</string>
-    <string name="automatic_plugin_download_mode_title">Select mode to filter plugins download</string>
+    <string name="unable_to_inflate">Kullanıcı arayüzü doğru bir şekilde oluşturulamadı, bu BÜYÜK BİR HATA\'dır ve hemen rapor edilmelidir %s</string>
+    <string name="automatic_plugin_download_mode_title">İndirilen eklentileri filtrelemek için modu seçin</string>
+    <string name="favorite_removed">%s favorilerden kaldırıldı</string>
+    <string name="favorites_list_name">Favoriler</string>
+    <string name="favorite_added">%s favorilere eklendi</string>
+    <string name="backup_frequency">Yedekleme sıklığı</string>
+    <string name="action_add_to_favorites">Favorilere ekle</string>
+    <string name="default_account">\@string/default_subtitles</string>
+    <string name="action_remove_from_favorites">Favorilerden çıkar</string>
+    <string name="disable">Devre dışı</string>
+    <string name="no_repository_found_error">Depo bulunamadı, URL\'yi kontrol edin ve VPN deneyin</string>
+    <string name="already_voted">Zaten oy kullandınız</string>
+    <string name="no_plugins_found_error">Depoda eklenti bulunamadı</string>
 </resources>

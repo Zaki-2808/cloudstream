@@ -110,4 +110,18 @@
     <string name="action_open_watching">ተጨማሪ መረጃ</string>
     <string name="search_provider_text_types">ዓይነቶችን በመጠቀም ይፈልጉ</string>
     <string name="subs_import_text" formatted="true">ቅርጸ-ቁምፊዎችን በ%s ውስጥ በማስቀመጥ ያጫኑ</string>
+    <string name="double_tap_to_pause_settings">ለማቆም ሁለቴ መታ ያድርጉ</string>
+    <string name="double_tap_to_seek_amount_settings">የማጫወቻ ማስጠጊያ መጠን (ሰከንዶች)</string>
+    <string name="backup_success">ውሂብ ተከማችቷል</string>
+    <string name="backup_failed">የማከማቻ ፈቃዶች ይጎድላሉ። እባክዎ ዳግም ይሞክሩ።</string>
+    <string name="category_account">መለያዎች</string>
+    <string name="advanced_search">የላቀ ፍለጋ</string>
+    <string name="double_tap_to_seek_settings_des">ወደ ፊት ወይም ወደ ኋላ ለማስጠጋት በቀኝ ወይም በግራ በኩል ሁለት ጊዜ መታ ያድርጉ</string>
+    <string name="library">ክምችት</string>
+    <string name="autoplay_next_settings_des">ይህ ሲያልቅ ቀጣዩን ክፍል ጀምር</string>
+    <string name="advanced_search_des">የፍለጋ ውጤቶች በአቅራቢው ለያይቶ ይሰጥዎታል</string>
+    <string name="search">ፍለጋ</string>
+    <string name="settings_info">መረጃ</string>
+    <string name="double_tap_to_seek_settings">ወደፊት ለማስጠጋት ሁለቴ መታ ያድርጉ</string>
+    <string name="autoplay_next_settings">ቀጣዩን ክፍል በራስ አጫውት</string>
 </resources>

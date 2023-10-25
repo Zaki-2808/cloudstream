@@ -546,4 +546,10 @@
 \nНяма да се зареждат никакви разширения при стартиране, докато файлът не бъде премахнат.</string>
     <string name="already_voted">Вече сте гласували</string>
     <string name="set_default">Задаване по подразбиране</string>
+    <string name="favorite_removed">%s Премахнато от любими</string>
+    <string name="favorite_added">%sДобавено в любими</string>
+    <string name="backup_frequency">Честота на архивиране</string>
+    <string name="action_add_to_favorites">Добави в любими</string>
+    <string name="default_account">Текст на субтитрите по подразбиране</string>
+    <string name="action_remove_from_favorites">Премахни от любими</string>
 </resources>

@@ -575,4 +575,10 @@
     <string name="default_account">@string/default_subtitles</string>
     <string name="disable">Disabilita</string>
     <string name="already_voted">Hai già votato</string>
+    <string name="favorite_removed">%s rimosso dai preferiti</string>
+    <string name="favorites_list_name">Preferiti</string>
+    <string name="favorite_added">%s aggiunto ai preferiti</string>
+    <string name="backup_frequency">Frequenza backup</string>
+    <string name="action_add_to_favorites">Aggiunto ai preferiti</string>
+    <string name="action_remove_from_favorites">Rimosso dai preferiti</string>
 </resources>

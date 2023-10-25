@@ -28,7 +28,7 @@
     <string name="episode_poster_img_des">Плакат эпизода</string>
     <string name="home_main_poster_img_des">Главный плакат</string>
     <string name="home_next_random_img_des">Следующий случайный</string>
-    <string name="go_back_img_des">Вернуться</string>
+    <string name="go_back_img_des">Назад</string>
     <string name="home_change_provider_img_des">Изменить поставщика</string>
     <string name="preview_background_img_des">Предпросмотр фона</string>
     <string name="player_speed_text_format" formatted="true">Скорость (%.2fx)</string>
@@ -67,7 +67,7 @@
     <string name="pick_subtitle">Субтитры</string>
     <string name="play_episode">Смотреть эпизод</string>
     <string name="reload_error">Повторная попытка подключение…</string>
-    <string name="go_back">Вернуться</string>
+    <string name="go_back">Назад</string>
     <string name="downloaded">Скачано</string>
     <string name="downloading">Скачивание</string>
     <string name="download_paused">Скачать остановлена</string>
@@ -553,4 +553,10 @@
 \nБудет иметь общий приоритет видео 10.
 \n
 \nПРИМЕЧАНИЕ. Если сумма равна 10 или более, плеер автоматически пропустит загрузку при загрузке этой ссылки!</string>
+    <string name="favorites_list_name">Избранное</string>
+    <string name="favorite_added">%s добавлено в избранное</string>
+    <string name="backup_frequency">Частота резервного копирования</string>
+    <string name="favorite_removed">%s удалено из избранного</string>
+    <string name="action_remove_from_favorites">Убрать из избранного</string>
+    <string name="action_add_to_favorites">Добавить в избранное</string>
 </resources>

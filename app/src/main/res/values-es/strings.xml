@@ -15,7 +15,7 @@
     <string name="safe_mode_description">Todas las extensiones se desactivaron debido a un fallo para ayudarlo a encontrar la que está causando problemas.</string>
     <string name="batch_download_nothing_to_download_format" formatted="true">Todo %s ha sido descargado</string>
     <string name="plugins_not_downloaded" formatted="true">No descargado:%d</string>
-    <string name="single_plugin_disabled" formatted="true">%s (Desactivado)</string>
+    <string name="single_plugin_disabled" formatted="true">%s (deshabilitado por los desarrolladores)</string>
     <string name="repository_url_hint">URL del repositorio</string>
     <string name="plugins_disabled" formatted="true">Desactivado:%d</string>
     <string name="add_repository">Agregar repositorio</string>
@@ -554,4 +554,9 @@
     <string name="no_repository_found_error">Repositorio no encontrado, comprueba la URL y prueba la VPN</string>
     <string name="already_voted">Ya has votado</string>
     <string name="backup_frequency">Frecuencia de la copia de seguridad</string>
+    <string name="favorite_removed">%s eliminado de los favoritos</string>
+    <string name="favorites_list_name">Favoritos</string>
+    <string name="favorite_added">%s añadido a los favoritos</string>
+    <string name="action_add_to_favorites">Añadir a los favoritos</string>
+    <string name="action_remove_from_favorites">Eliminar de los favoritos</string>
 </resources>

@@ -431,7 +431,7 @@
     <string name="view_public_repositories_button_short">Danh sách công khai</string>
     <string name="uppercase_all_subtitles">In hoa toàn bộ phụ đề</string>
     <string name="download_all_plugins_from_repo">Tải toàn bộ plugin từ kho lưu trữ này\?</string>
-    <string name="single_plugin_disabled" formatted="true">%s (Đã vô hiệu)</string>
+    <string name="single_plugin_disabled" formatted="true">%s (Đã vô hiệu hóa bởi nhà phát triển)</string>
     <string name="tracks">Thêm</string>
     <string name="audio_tracks">Âm thanh</string>
     <string name="video_tracks">Chất lượng Video</string>
@@ -568,4 +568,10 @@
     <string name="unable_to_inflate">Không thể khởi tạo UI, đây là một LỖI LỚN và cần được báo cáo ngay lập tức tới %s</string>
     <string name="automatic_plugin_download_mode_title">Chọn chế độ để lọc plugin tải xuống</string>
     <string name="default_account">@string/default_subtitles</string>
+    <string name="favorite_removed">%s đã bị loại khỏi mục yêu thích</string>
+    <string name="favorites_list_name">Yêu thích</string>
+    <string name="favorite_added">%s được thêm vào mục yêu thích</string>
+    <string name="backup_frequency">Tần suất sao lưu</string>
+    <string name="action_add_to_favorites">Thêm vào mục yêu thích</string>
+    <string name="action_remove_from_favorites">Loại bỏ khỏi mục yêu thích</string>
 </resources>

@@ -595,7 +595,7 @@
     <string name="view_public_repositories_button_short">Public list</string>
     <string name="uppercase_all_subtitles">Uppercase all subtitles</string>
     <string name="download_all_plugins_from_repo">Download all plugins from this repository?</string>
-    <string name="single_plugin_disabled" formatted="true">%s (Disabled)</string>
+    <string name="single_plugin_disabled" formatted="true">%s (Disabled by the developers)</string>
     <string name="tracks">Tracks</string>
     <string name="audio_tracks">Audio tracks</string>
     <string name="video_tracks">Video tracks</string>
@@ -686,8 +686,6 @@
     <string name="qualities">Qualities</string>
     <string name="profile_background_des">Profile background</string>
     <string name="unable_to_inflate">UI was unable to be created correctly, this is a MAJOR BUG and should be reported immediately %s</string>
-
-
     <string name="tv_no_focus_tag" translatable="false">tv_no_focus_tag</string>
     <string name="already_voted">You have already voted</string>
     <string name="favorites_list_name">Favorites</string>

@@ -553,4 +553,10 @@
     <string name="no_plugins_found_error">Não foram encontrados plugins no repositório</string>
     <string name="no_repository_found_error">Repositório não encontrado, verifique o URL e tente a VPN</string>
     <string name="already_voted">Você já votou</string>
+    <string name="backup_frequency">Frequência de backup</string>
+    <string name="favorite_removed">%s removido dos favoritos</string>
+    <string name="favorites_list_name">Favoritos</string>
+    <string name="favorite_added">%s adicionado aos favoritos</string>
+    <string name="action_add_to_favorites">Adicionar aos favoritos</string>
+    <string name="action_remove_from_favorites">Remover dos favoritos</string>
 </resources>

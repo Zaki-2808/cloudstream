@@ -1,0 +1,10 @@
+CloudStream-3 umożliwia strumieniowe przesyłanie i pobieranie filmów, seriali telewizyjnych i anime.
+
+Aplikacja jest dostarczana bez reklam i analiz i
+obsługuje wiele witryn ze zwiastunami i filmami i nie tylko, np.
+
+Zakładki
+
+Pobieranie napisów
+
+Obsługa Chromecasta
